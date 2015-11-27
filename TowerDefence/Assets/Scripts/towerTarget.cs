@@ -3,6 +3,9 @@ using System.Collections;
 
 public class towerTarget : MonoBehaviour
 {
+    /// <summary>
+    /// Author Daniel Hofman
+    /// </summary>
     private GameObject _target;
     [SerializeField] private float _targetingRadius;
 

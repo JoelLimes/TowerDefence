@@ -2,6 +2,7 @@
 using System.Collections;
 
 public class EnemySpawner : MonoBehaviour {
+    //Author Daniel Hofman
 
     [SerializeField] private GameObject _objectToSpawn;
     [SerializeField] private float _spawnTimer;

@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Towershoot : MonoBehaviour {
+public class towershoot : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {

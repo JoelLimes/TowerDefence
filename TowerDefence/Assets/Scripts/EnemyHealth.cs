@@ -3,6 +3,7 @@ using System.Collections;
 
 public class EnemyHealth : MonoBehaviour
 {
+    //author Daniel Hofman
     private float _maxHealth = 100;
     private float _currentHealth;
 
