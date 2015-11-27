@@ -31,12 +31,12 @@ public class BuildTurret : MonoBehaviour {
 	void Building() {
 		if(_isBuilding) {
 			Vector3 mousePos = MousePos();
-			_selectedTurret.GetComponent<TurretAI>().enabled = false;
+			_selectedTurret.GetComponentInChildren<TurretAI>().enabled = false;
 			_selectedTurret.transform.position = mousePos;
 			DrawRayCast();
 			if(Input.GetMouseButtonDown(0) && _canPlace) {
 				_isBuilding = false;
-				_selectedTurret.GetComponent<TurretAI>().enabled = true;
+				_selectedTurret.GetComponentInChildren<TurretAI>().enabled = true;
 				for (int i = 0; i < _r.Length; i++) {
 					_r[i].material.color = _normalColor;
 					

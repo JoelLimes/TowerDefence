@@ -17,14 +17,13 @@ public class TurretAI : MonoBehaviour
 	void Update()
 	{
 
-		transform.rotation = Quaternion.AngleAxis (GetAngle (GetTarget()) + 90, Vector3.forward);
+		transform.rotation = Quaternion.AngleAxis (GetAngle (GetTarget()) + 180, Vector3.forward);
 		waitTime += Time.deltaTime;
 		if (waitTime > .6f) 
 		{
 			Instantiate(bullet,Spawnpos.position, Spawnpos.rotation);
 			waitTime = 0;
-//			AudioSource audio = GetComponent<AudioSource>();
-//			audio.Play();
+
 		}
 	}
 

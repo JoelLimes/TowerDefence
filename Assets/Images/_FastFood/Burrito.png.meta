@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: 347ceadcb879a49c2862fa0652ff4828
+timeCreated: 1448474930
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Burrito_0
+    21300002: Burrito_1
+    21300004: Burrito_2
+    21300006: Burrito_3
+    21300008: Burrito_4
+    21300010: Burrito_5
+    21300012: Burrito_6
+    21300014: Burrito_7
+    21300016: Burrito_8
+    21300018: Burrito_9
+    21300020: Burrito_10
+    21300022: Burrito_11
+    21300024: Burrito_12
+    21300026: Burrito_13
+    21300028: Burrito_14
+    21300030: Burrito_15
+    21300032: Burrito_16
+    21300034: Burrito_17
+    21300036: Burrito_18
+    21300038: Burrito_19
+    21300040: Burrito_20
+    21300042: Burrito_21
+    21300044: Burrito_22
+    21300046: Burrito_23
+    21300048: Burrito_24
+    21300050: Burrito_25
+    21300052: Burrito_26
+    21300054: Burrito_27
+    21300056: Burrito_28
+    21300058: Burrito_29
+    21300060: Burrito_30
+    21300062: Burrito_31
+    21300064: Burrito_32
+    21300066: Burrito_33
+    21300068: Burrito_34
+    21300070: Burrito_35
+    21300072: Burrito_36
+    21300074: Burrito_37
+    21300076: Burrito_38
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Burrito_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 940
+        width: 153
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 940
+        width: 153
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 939
+        width: 156
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_3
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 936
+        width: 157
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_4
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 936
+        width: 155
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 936
+        width: 160
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 846
+        width: 159
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 844
+        width: 160
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 844
+        width: 162
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_9
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 844
+        width: 164
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_10
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 844
+        width: 162
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 750
+        width: 161
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_12
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 752
+        width: 161
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 752
+        width: 161
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_14
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 752
+        width: 158
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 752
+        width: 157
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_16
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 755
+        width: 155
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 663
+        width: 155
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 664
+        width: 158
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 664
+        width: 149
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_20
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 664
+        width: 154
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_21
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 664
+        width: 154
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_22
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 664
+        width: 154
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 576
+        width: 154
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 576
+        width: 157
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_25
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 576
+        width: 157
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_26
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 575
+        width: 157
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_27
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 572
+        width: 159
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 480
+        width: 160
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_29
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 480
+        width: 162
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_30
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 482
+        width: 160
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_31
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 483
+        width: 159
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_32
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 484
+        width: 157
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 388
+        width: 155
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_34
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 390
+        width: 154
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_35
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 391
+        width: 155
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_36
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 391
+        width: 155
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_37
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 391
+        width: 154
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burrito_38
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 391
+        width: 153
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

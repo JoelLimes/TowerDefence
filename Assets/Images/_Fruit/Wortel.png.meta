@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 85532ce794f864b17b25381d033a2773
+timeCreated: 1448477614
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wortel_0
+    21300002: Wortel_1
+    21300004: Wortel_2
+    21300006: Wortel_3
+    21300008: Wortel_4
+    21300010: Wortel_5
+    21300012: Wortel_6
+    21300014: Wortel_7
+    21300016: Wortel_8
+    21300018: Wortel_9
+    21300020: Wortel_10
+    21300022: Wortel_11
+    21300024: Wortel_13
+    21300026: Wortel_14
+    21300028: Wortel_15
+    21300030: Wortel_17
+    21300032: Wortel_18
+    21300034: Wortel_20
+    21300036: Wortel_21
+    21300038: Wortel_22
+    21300040: Wortel_23
+    21300042: Wortel_24
+    21300044: Wortel_25
+    21300046: Wortel_26
+    21300048: Wortel_27
+    21300050: Wortel_28
+    21300052: Wortel_29
+    21300054: Wortel_30
+    21300056: Wortel_31
+    21300058: Wortel_32
+    21300060: Wortel_33
+    21300062: Wortel_34
+    21300064: Wortel_35
+    21300066: Wortel_36
+    21300068: Wortel_37
+    21300070: Wortel_38
+    21300072: Wortel_39
+    21300074: Wortel_40
+    21300076: Wortel_41
+    21300078: Wortel_42
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Wortel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 870
+        width: 106
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 868
+        width: 108
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 868
+        width: 108
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 867
+        width: 104
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_4
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 866
+        width: 105
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_5
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 864
+        width: 108
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_6
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 863
+        width: 108
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 695
+        width: 103
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 695
+        width: 103
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_9
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 694
+        width: 108
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_10
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 692
+        width: 108
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_11
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 695
+        width: 106
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_13
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 696
+        width: 109
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 524
+        width: 109
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_15
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 527
+        width: 105
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 528
+        width: 104
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_18
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 530
+        width: 114
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_20
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 530
+        width: 105
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_21
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 530
+        width: 105
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_22
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 531
+        width: 105
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 109
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_24
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 366
+        width: 112
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_25
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 364
+        width: 113
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_26
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 367
+        width: 117
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_27
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 366
+        width: 110
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_28
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 366
+        width: 110
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_29
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 364
+        width: 115
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 196
+        width: 115
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_31
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 196
+        width: 118
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_32
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 195
+        width: 123
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_33
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 196
+        width: 119
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_34
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 196
+        width: 116
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_35
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 198
+        width: 115
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 28
+        width: 113
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 28
+        width: 116
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_38
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 28
+        width: 115
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_39
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 28
+        width: 113
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_40
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 28
+        width: 112
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_41
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 29
+        width: 111
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wortel_42
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 29
+        width: 111
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

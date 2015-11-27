@@ -1,0 +1,716 @@
+fileFormatVersion: 2
+guid: ff586e63b7ed542aab6c45f565c83139
+timeCreated: 1448584774
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GroenteTuin_0
+    21300002: GroenteTuin_1
+    21300004: GroenteTuin_2
+    21300006: GroenteTuin_3
+    21300008: GroenteTuin_4
+    21300010: GroenteTuin_5
+    21300012: GroenteTuin_6
+    21300014: GroenteTuin_7
+    21300016: GroenteTuin_8
+    21300018: GroenteTuin_9
+    21300020: GroenteTuin_10
+    21300022: GroenteTuin_11
+    21300024: GroenteTuin_12
+    21300026: GroenteTuin_13
+    21300028: GroenteTuin_14
+    21300030: GroenteTuin_15
+    21300032: GroenteTuin_16
+    21300034: GroenteTuin_17
+    21300036: GroenteTuin_18
+    21300038: GroenteTuin_19
+    21300040: GroenteTuin_20
+    21300042: GroenteTuin_21
+    21300044: GroenteTuin_22
+    21300046: GroenteTuin_23
+    21300048: GroenteTuin_24
+    21300050: GroenteTuin_25
+    21300052: GroenteTuin_26
+    21300054: GroenteTuin_27
+    21300056: GroenteTuin_28
+    21300058: GroenteTuin_29
+    21300060: GroenteTuin_30
+    21300062: GroenteTuin_31
+    21300064: GroenteTuin_32
+    21300066: GroenteTuin_33
+    21300068: GroenteTuin_34
+    21300070: GroenteTuin_35
+    21300072: GroenteTuin_36
+    21300074: GroenteTuin_37
+    21300076: GroenteTuin_38
+    21300078: GroenteTuin_39
+    21300080: GroenteTuin_40
+    21300082: GroenteTuin_41
+    21300084: GroenteTuin_42
+    21300086: GroenteTuin_43
+    21300088: GroenteTuin_44
+    21300090: GroenteTuin_45
+    21300092: GroenteTuin_46
+    21300094: GroenteTuin_47
+    21300096: GroenteTuin_48
+    21300098: GroenteTuin_49
+    21300100: GroenteTuin_50
+    21300102: GroenteTuin_51
+    21300104: GroenteTuin_52
+    21300106: GroenteTuin_53
+    21300108: GroenteTuin_54
+    21300110: GroenteTuin_55
+    21300112: GroenteTuin_56
+    21300114: GroenteTuin_57
+    21300116: GroenteTuin_58
+    21300118: GroenteTuin_59
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GroenteTuin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1869
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1869
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_2
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1869
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_3
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1869
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_4
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1869
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_5
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1869
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_6
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1869
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_7
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1869
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1690
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_9
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1690
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_10
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1690
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_11
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1690
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_12
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1690
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_13
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1690
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_14
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1690
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_15
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1690
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1511
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_17
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1511
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_18
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1511
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_19
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1511
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_20
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1511
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_21
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1511
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_22
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1511
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_23
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1511
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1332
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_25
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1332
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_26
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1332
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_27
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1332
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_28
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1332
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_29
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1332
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_30
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1332
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_31
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1332
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1153
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_33
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1153
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_34
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1153
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_35
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1153
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_36
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1153
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_37
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1153
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_38
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1153
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_39
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1153
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 974
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_41
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 974
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_42
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 974
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_43
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 974
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_44
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 974
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_45
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 974
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_46
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 974
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_47
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 974
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 795
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_49
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 795
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_50
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 795
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_51
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 795
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_52
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 795
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_53
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 795
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_54
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 795
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_55
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 795
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_57
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 616
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_58
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 616
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GroenteTuin_59
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 616
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: c1a8d8c196433414abff9199dabd5e70
+timeCreated: 1448476343
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Komkommer_0
+    21300002: Komkommer_1
+    21300004: Komkommer_2
+    21300006: Komkommer_3
+    21300008: Komkommer_4
+    21300010: Komkommer_5
+    21300012: Komkommer_6
+    21300014: Komkommer_7
+    21300016: Komkommer_8
+    21300018: Komkommer_9
+    21300020: Komkommer_10
+    21300022: Komkommer_11
+    21300024: Komkommer_12
+    21300026: Komkommer_13
+    21300028: Komkommer_14
+    21300030: Komkommer_15
+    21300032: Komkommer_16
+    21300034: Komkommer_17
+    21300036: Komkommer_18
+    21300038: Komkommer_19
+    21300040: Komkommer_20
+    21300042: Komkommer_21
+    21300044: Komkommer_22
+    21300046: Komkommer_23
+    21300048: Komkommer_24
+    21300050: Komkommer_25
+    21300052: Komkommer_26
+    21300054: Komkommer_27
+    21300056: Komkommer_28
+    21300058: Komkommer_29
+    21300060: Komkommer_30
+    21300062: Komkommer_31
+    21300064: Komkommer_32
+    21300066: Komkommer_33
+    21300068: Komkommer_34
+    21300070: Komkommer_35
+    21300072: Komkommer_36
+    21300074: Komkommer_37
+    21300076: Komkommer_38
+    21300078: Komkommer_39
+    21300080: Komkommer_40
+    21300082: Komkommer_41
+    21300084: Komkommer_42
+    21300086: Komkommer_43
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Komkommer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 858
+        width: 100
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 856
+        width: 104
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 856
+        width: 87
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_4
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 856
+        width: 108
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_5
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 856
+        width: 108
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_6
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 856
+        width: 108
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_7
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 852
+        width: 107
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_8
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 854
+        width: 107
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 676
+        width: 106
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 675
+        width: 104
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 675
+        width: 106
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_12
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 676
+        width: 103
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_14
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 678
+        width: 98
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_15
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 676
+        width: 108
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_16
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 679
+        width: 109
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_17
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 679
+        width: 108
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_19
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 500
+        width: 89
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_21
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 502
+        width: 102
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_22
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 500
+        width: 101
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_23
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 500
+        width: 105
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_24
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 500
+        width: 84
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_25
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 503
+        width: 100
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_26
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 503
+        width: 99
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_27
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 500
+        width: 102
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 320
+        width: 113
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_29
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 320
+        width: 102
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_30
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 320
+        width: 102
+        height: 164
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_31
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 319
+        width: 114
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_32
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 319
+        width: 114
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_33
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 319
+        width: 114
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_34
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 320
+        width: 113
+        height: 164
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_35
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 132
+        width: 102
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 135
+        width: 113
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_37
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 135
+        width: 103
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_38
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 135
+        width: 100
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_39
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 135
+        width: 100
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_40
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 132
+        width: 111
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_42
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 132
+        width: 99
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komkommer_43
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 134
+        width: 85
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

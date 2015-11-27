@@ -1,0 +1,441 @@
+fileFormatVersion: 2
+guid: 430f0b1af1ec54f89bc5788eec6306bc
+timeCreated: 1448476660
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Paddestoel_0
+    21300002: Paddestoel_2
+    21300004: Paddestoel_4
+    21300006: Paddestoel_6
+    21300008: Paddestoel_8
+    21300010: Paddestoel_10
+    21300012: Paddestoel_12
+    21300014: Paddestoel_14
+    21300016: Paddestoel_16
+    21300018: Paddestoel_18
+    21300020: Paddestoel_19
+    21300022: Paddestoel_21
+    21300024: Paddestoel_24
+    21300026: Paddestoel_25
+    21300028: Paddestoel_27
+    21300030: Paddestoel_29
+    21300032: Paddestoel_31
+    21300034: Paddestoel_33
+    21300036: Paddestoel_36
+    21300038: Paddestoel_38
+    21300040: Paddestoel_40
+    21300042: Paddestoel_42
+    21300044: Paddestoel_44
+    21300046: Paddestoel_46
+    21300048: Paddestoel_48
+    21300050: Paddestoel_50
+    21300052: Paddestoel_52
+    21300054: Paddestoel_54
+    21300056: Paddestoel_56
+    21300058: Paddestoel_58
+    21300060: Paddestoel_60
+    21300062: Paddestoel_62
+    21300064: Paddestoel_64
+    21300066: Paddestoel_66
+    21300068: Paddestoel_68
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Paddestoel_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 870
+        width: 128
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 870
+        width: 128
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 868
+        width: 129
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 868
+        width: 127
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_8
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 867
+        width: 127
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_10
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 866
+        width: 129
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 704
+        width: 128
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 703
+        width: 127
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_16
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 703
+        width: 127
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 702
+        width: 127
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_19
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 704
+        width: 126
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_21
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 706
+        width: 127
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 540
+        width: 127
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 540
+        width: 127
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_27
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 540
+        width: 128
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_29
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 542
+        width: 128
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_31
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 543
+        width: 128
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_33
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 543
+        width: 129
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 383
+        width: 129
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_38
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 382
+        width: 129
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_40
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 380
+        width: 129
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_42
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 381
+        width: 129
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_44
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 380
+        width: 128
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_46
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 379
+        width: 129
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 216
+        width: 130
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_50
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 216
+        width: 131
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_52
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 215
+        width: 130
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_54
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 215
+        width: 131
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_56
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 216
+        width: 130
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_58
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 216
+        width: 129
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_60
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 52
+        width: 129
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_62
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 52
+        width: 130
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_64
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 54
+        width: 129
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_66
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 55
+        width: 129
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Paddestoel_68
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 56
+        width: 129
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

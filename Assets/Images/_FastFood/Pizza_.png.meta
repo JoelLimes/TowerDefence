@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: b58f551e4e96842b5b74d6d97826cc39
+timeCreated: 1448475700
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pizza__0
+    21300002: Pizza__1
+    21300004: Pizza__2
+    21300006: Pizza__3
+    21300008: Pizza__4
+    21300010: Pizza__5
+    21300012: Pizza__6
+    21300014: Pizza__7
+    21300016: Pizza__8
+    21300018: Pizza__9
+    21300020: Pizza__10
+    21300022: Pizza__11
+    21300024: Pizza__12
+    21300026: Pizza__13
+    21300028: Pizza__14
+    21300030: Pizza__15
+    21300032: Pizza__16
+    21300034: Pizza__17
+    21300036: Pizza__18
+    21300038: Pizza__19
+    21300040: Pizza__20
+    21300042: Pizza__21
+    21300044: Pizza__22
+    21300046: Pizza__23
+    21300048: Pizza__24
+    21300050: Pizza__25
+    21300052: Pizza__26
+    21300054: Pizza__27
+    21300056: Pizza__28
+    21300058: Pizza__29
+    21300060: Pizza__30
+    21300062: Pizza__31
+    21300064: Pizza__32
+    21300066: Pizza__33
+    21300068: Pizza__34
+    21300070: Pizza__35
+    21300072: Pizza__36
+    21300074: Pizza__37
+    21300076: Pizza__38
+    21300078: Pizza__39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Pizza__0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1912
+        width: 150
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1911
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1908
+        width: 153
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__3
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1908
+        width: 152
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__4
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1908
+        width: 156
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__5
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1907
+        width: 155
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1760
+        width: 157
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1760
+        width: 157
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__8
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1760
+        width: 160
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__9
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1759
+        width: 160
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__10
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1760
+        width: 160
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1612
+        width: 159
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1615
+        width: 160
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__13
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1616
+        width: 160
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__14
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1616
+        width: 158
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1616
+        width: 157
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1472
+        width: 156
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__17
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1475
+        width: 157
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__18
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1476
+        width: 156
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__19
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1476
+        width: 156
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__20
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1476
+        width: 157
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__21
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1475
+        width: 157
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1335
+        width: 160
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__23
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1333
+        width: 158
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__24
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1332
+        width: 161
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__25
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1331
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__26
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1328
+        width: 164
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1184
+        width: 164
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1183
+        width: 164
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__29
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1182
+        width: 166
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__30
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1183
+        width: 163
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__31
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1184
+        width: 162
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1036
+        width: 160
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__33
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1039
+        width: 159
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__34
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1040
+        width: 157
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__35
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1041
+        width: 157
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__36
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1043
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__37
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1044
+        width: 153
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__38
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 900
+        width: 149
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza__39
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 901
+        width: 147
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

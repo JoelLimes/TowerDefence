@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: effd23f13c24f49608b7bf2d17ee5dc4
+timeCreated: 1448479321
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Banaan_2
+    21300002: Banaan_4
+    21300004: Banaan_6
+    21300006: Banaan_8
+    21300008: Banaan_10
+    21300010: Banaan_12
+    21300012: Banaan_14
+    21300014: Banaan_16
+    21300016: Banaan_18
+    21300018: Banaan_20
+    21300020: Banaan_22
+    21300022: Banaan_24
+    21300024: Banaan_27
+    21300026: Banaan_29
+    21300028: Banaan_31
+    21300030: Banaan_33
+    21300032: Banaan_35
+    21300034: Banaan_37
+    21300036: Banaan_39
+    21300038: Banaan_42
+    21300040: Banaan_44
+    21300042: Banaan_46
+    21300044: Banaan_48
+    21300046: Banaan_50
+    21300048: Banaan_52
+    21300050: Banaan_54
+    21300052: Banaan_56
+    21300054: Banaan_58
+    21300056: Banaan_60
+    21300058: Banaan_62
+    21300060: Banaan_69
+    21300062: Banaan_71
+    21300064: Banaan_73
+    21300066: Banaan_75
+    21300068: Banaan_77
+    21300070: Banaan_79
+    21300072: Banaan_85
+    21300074: Banaan_87
+    21300076: Banaan_89
+    21300078: Banaan_92
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Banaan_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1852
+        width: 86
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1851
+        width: 88
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1850
+        width: 89
+        height: 198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_8
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1848
+        width: 91
+        height: 199
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_10
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1847
+        width: 91
+        height: 201
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_12
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1844
+        width: 92
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1640
+        width: 94
+        height: 202
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_16
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1636
+        width: 93
+        height: 205
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_18
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1638
+        width: 93
+        height: 202
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1636
+        width: 94
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_22
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1636
+        width: 94
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_24
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1638
+        width: 94
+        height: 203
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1430
+        width: 92
+        height: 202
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_29
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1431
+        width: 90
+        height: 201
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_31
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1432
+        width: 88
+        height: 201
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_33
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1432
+        width: 89
+        height: 201
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_35
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1435
+        width: 89
+        height: 199
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_37
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1436
+        width: 87
+        height: 198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1231
+        width: 86
+        height: 198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_42
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1232
+        width: 88
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_44
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1232
+        width: 88
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1232
+        width: 88
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_48
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1231
+        width: 92
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_50
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1230
+        width: 89
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_52
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1031
+        width: 91
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1028
+        width: 93
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_56
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1030
+        width: 96
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_58
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1028
+        width: 99
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_60
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1028
+        width: 102
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_62
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1027
+        width: 108
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_69
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 824
+        width: 102
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_71
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 826
+        width: 99
+        height: 198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_73
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 827
+        width: 96
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_75
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 827
+        width: 94
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_77
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 828
+        width: 94
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_79
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 828
+        width: 90
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 628
+        width: 91
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_87
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 628
+        width: 88
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_89
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 628
+        width: 89
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banaan_92
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 628
+        width: 88
+        height: 198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: b920d87a4bb6f460daaad4f7c03a089d
+timeCreated: 1448476764
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tomaat_0
+    21300002: Tomaat_1
+    21300004: Tomaat_2
+    21300006: Tomaat_3
+    21300008: Tomaat_4
+    21300010: Tomaat_5
+    21300012: Tomaat_6
+    21300014: Tomaat_7
+    21300016: Tomaat_8
+    21300018: Tomaat_9
+    21300020: Tomaat_10
+    21300022: Tomaat_11
+    21300024: Tomaat_12
+    21300026: Tomaat_13
+    21300028: Tomaat_14
+    21300030: Tomaat_15
+    21300032: Tomaat_16
+    21300034: Tomaat_17
+    21300036: Tomaat_18
+    21300038: Tomaat_19
+    21300040: Tomaat_20
+    21300042: Tomaat_21
+    21300044: Tomaat_22
+    21300046: Tomaat_23
+    21300048: Tomaat_24
+    21300050: Tomaat_25
+    21300052: Tomaat_26
+    21300054: Tomaat_27
+    21300056: Tomaat_28
+    21300058: Tomaat_29
+    21300060: Tomaat_30
+    21300062: Tomaat_31
+    21300064: Tomaat_32
+    21300066: Tomaat_33
+    21300068: Tomaat_34
+    21300070: Tomaat_35
+    21300072: Tomaat_36
+    21300074: Tomaat_19.1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Tomaat_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 908
+        width: 135
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 908
+        width: 125
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 908
+        width: 132
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_3
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 907
+        width: 132
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_4
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 907
+        width: 129
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_5
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 906
+        width: 134
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_6
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 904
+        width: 132
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 783
+        width: 131
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 783
+        width: 133
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_9
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 780
+        width: 134
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_10
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 780
+        width: 134
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_11
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 783
+        width: 136
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_12
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 784
+        width: 131
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 661
+        width: 134
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_14
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 660
+        width: 134
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_15
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 660
+        width: 127
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_16
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 663
+        width: 132
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_17
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 664
+        width: 126
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_18
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 664
+        width: 127
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_19
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 664
+        width: 135
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_20
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 544
+        width: 125
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 542
+        width: 125
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_22
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 540
+        width: 128
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_23
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 540
+        width: 128
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_24
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 539
+        width: 132
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_25
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 418
+        width: 131
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_26
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 416
+        width: 134
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_27
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 416
+        width: 134
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_28
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 415
+        width: 135
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_29
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 418
+        width: 132
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_30
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 420
+        width: 130
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_31
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 296
+        width: 129
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 296
+        width: 128
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_33
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 298
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_34
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 299
+        width: 124
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_35
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 299
+        width: 124
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_36
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 299
+        width: 135
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomaat_19.1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 544
+        width: 135
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

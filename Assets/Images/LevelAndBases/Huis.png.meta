@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: 74f4d069c730143c59adcae27d74d720
+timeCreated: 1448660915
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Huis_0
+    21300002: Huis_1
+    21300004: Huis_2
+    21300006: Huis_3
+    21300008: Huis_4
+    21300010: Huis_5
+    21300012: Huis_6
+    21300014: Huis_7
+    21300016: Huis_8
+    21300018: Huis_9
+    21300020: Huis_10
+    21300022: Huis_11
+    21300024: Huis_12
+    21300026: Huis_13
+    21300028: Huis_14
+    21300030: Huis_15
+    21300032: Huis_16
+    21300034: Huis_17
+    21300036: Huis_18
+    21300038: Huis_19
+    21300040: Huis_20
+    21300042: Huis_21
+    21300044: Huis_22
+    21300046: Huis_23
+    21300048: Huis_24
+    21300050: Huis_25
+    21300052: Huis_26
+    21300054: Huis_27
+    21300056: Huis_28
+    21300058: Huis_29
+    21300060: Huis_30
+    21300062: Huis_31
+    21300064: Huis_32
+    21300066: Huis_33
+    21300068: Huis_34
+    21300070: Huis_35
+    21300072: Huis_36
+    21300074: Huis_37
+    21300076: Huis_38
+    21300078: Huis_39
+    21300080: Huis_40
+    21300082: Huis_41
+    21300084: Huis_42
+    21300086: Huis_43
+    21300088: Huis_44
+    21300090: Huis_45
+    21300092: Huis_46
+    21300094: Huis_47
+    21300096: Huis_48
+    21300098: Huis_49
+    21300100: Huis_50
+    21300102: Huis_51
+    21300104: Huis_52
+    21300106: Huis_53
+    21300108: Huis_54
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Huis_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1883
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_1
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1883
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_2
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1883
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_3
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1883
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_4
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1883
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1716
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1716
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_7
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1716
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_8
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1716
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_9
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1716
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1548
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_11
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1548
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_12
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1548
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_13
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1548
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_14
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1548
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1380
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_16
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1380
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_17
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1380
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_18
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1380
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_19
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1380
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1212
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_21
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1212
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_22
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1212
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_23
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1212
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_24
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1212
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1044
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_26
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1044
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_27
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1044
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_28
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1044
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_29
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1044
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 875
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_31
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 875
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_32
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 875
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_33
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 875
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_34
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 875
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 707
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_36
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 707
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_37
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 707
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_38
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 707
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_39
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 707
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 539
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_41
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 539
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_42
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 539
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_43
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 539
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_44
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 539
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 370
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_46
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 370
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_47
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 371
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_48
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 371
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_49
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 371
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 203
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_51
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 203
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_52
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 203
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Huis_53
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 203
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

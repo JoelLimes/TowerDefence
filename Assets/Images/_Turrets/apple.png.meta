@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: 62c217880e2574e28aca68da345cd373
+timeCreated: 1448478363
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: apple_0
+    21300002: apple_1
+    21300004: apple_2
+    21300006: apple_3
+    21300008: apple_4
+    21300010: apple_5
+    21300012: apple_6
+    21300014: apple_7
+    21300016: apple_8
+    21300018: apple_9
+    21300020: apple_10
+    21300022: apple_11
+    21300024: apple_12
+    21300026: apple_13
+    21300028: apple_14
+    21300030: apple_15
+    21300032: apple_16
+    21300034: apple_17
+    21300036: apple_18
+    21300038: apple_20
+    21300040: apple_22
+    21300042: apple_23
+    21300044: apple_24
+    21300046: apple_25
+    21300048: apple_26
+    21300050: apple_27
+    21300052: apple_28
+    21300054: apple_29
+    21300056: apple_30
+    21300058: apple_31
+    21300060: apple_32
+    21300062: apple_33
+    21300064: apple_34
+    21300066: apple_35
+    21300068: apple_36
+    21300070: apple_37
+    21300072: apple_38
+    21300074: apple_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: apple_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 878
+        width: 124
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 876
+        width: 125
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 875
+        width: 125
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 872
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_4
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 871
+        width: 126
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_5
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 871
+        width: 127
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_6
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 867
+        width: 127
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 699
+        width: 126
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 697
+        width: 128
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 695
+        width: 132
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_10
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 697
+        width: 128
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_11
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 699
+        width: 128
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_12
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 703
+        width: 126
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 530
+        width: 125
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 530
+        width: 125
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_15
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 531
+        width: 125
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_16
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 532
+        width: 124
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_17
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 535
+        width: 124
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_18
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 536
+        width: 122
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_20
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 536
+        width: 123
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 372
+        width: 125
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_23
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 371
+        width: 124
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_24
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 368
+        width: 125
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_25
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 367
+        width: 125
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_26
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 366
+        width: 126
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_27
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 364
+        width: 126
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_28
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 364
+        width: 127
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_29
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 196
+        width: 128
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_30
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 195
+        width: 128
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_31
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 194
+        width: 129
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_32
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 196
+        width: 130
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_33
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 198
+        width: 127
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_34
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 200
+        width: 125
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_35
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 27
+        width: 125
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_36
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 28
+        width: 126
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_37
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 32
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_38
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 32
+        width: 124
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: apple_39
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 33
+        width: 123
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

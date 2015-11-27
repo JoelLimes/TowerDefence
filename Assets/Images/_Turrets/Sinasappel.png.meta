@@ -1,0 +1,441 @@
+fileFormatVersion: 2
+guid: c51b5848a354f41ddb08e152d4932442
+timeCreated: 1448481757
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sinasappel_0
+    21300002: Sinasappel_1
+    21300004: Sinasappel_2
+    21300006: Sinasappel_3
+    21300008: Sinasappel_4
+    21300010: Sinasappel_5
+    21300012: Sinasappel_6
+    21300014: Sinasappel_7
+    21300016: Sinasappel_8
+    21300018: Sinasappel_9
+    21300020: Sinasappel_10
+    21300022: Sinasappel_11
+    21300024: Sinasappel_12
+    21300026: Sinasappel_13
+    21300028: Sinasappel_14
+    21300030: Sinasappel_15
+    21300032: Sinasappel_16
+    21300034: Sinasappel_17
+    21300036: Sinasappel_18
+    21300038: Sinasappel_19
+    21300040: Sinasappel_20
+    21300042: Sinasappel_21
+    21300044: Sinasappel_22
+    21300046: Sinasappel_23
+    21300048: Sinasappel_24
+    21300050: Sinasappel_25
+    21300052: Sinasappel_26
+    21300054: Sinasappel_27
+    21300056: Sinasappel_28
+    21300058: Sinasappel_29
+    21300060: Sinasappel_30
+    21300062: Sinasappel_31
+    21300064: Sinasappel_32
+    21300066: Sinasappel_33
+    21300068: Sinasappel_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sinasappel_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 914
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 912
+        width: 119
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 912
+        width: 122
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 911
+        width: 123
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_4
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 908
+        width: 122
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_5
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 908
+        width: 125
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 786
+        width: 126
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 784
+        width: 126
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_8
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 784
+        width: 128
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_9
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 783
+        width: 129
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_10
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 784
+        width: 127
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_11
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 784
+        width: 127
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 662
+        width: 126
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 663
+        width: 123
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_14
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 664
+        width: 123
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_15
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 664
+        width: 122
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_16
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 666
+        width: 120
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_17
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 667
+        width: 120
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 547
+        width: 120
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_19
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 548
+        width: 118
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_20
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 548
+        width: 117
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_21
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 547
+        width: 121
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_22
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 544
+        width: 121
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_23
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 543
+        width: 122
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_24
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 542
+        width: 123
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 420
+        width: 125
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 420
+        width: 125
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_27
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 418
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_28
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 416
+        width: 126
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_29
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 416
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_30
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 418
+        width: 126
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_31
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 295
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_32
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 298
+        width: 125
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_33
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 300
+        width: 120
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sinasappel_34
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 303
+        width: 121
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

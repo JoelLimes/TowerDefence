@@ -18,5 +18,11 @@ public class BulletSpeed : MonoBehaviour
 		transform.Translate (new Vector3(1,0,0) * bulletSpeed * Time.deltaTime);
 	}
 
-
+	void OnTriggerEnter2D(Collider2D coll)
+	{
+		if (coll.gameObject.tag == "enemy") 
+		{
+			Destroy(this.gameObject);
+		}
+	}
 }

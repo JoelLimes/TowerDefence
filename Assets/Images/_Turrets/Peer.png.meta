@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: 2f51db4b851314aee9838c41e4f292a8
+timeCreated: 1448481160
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Peer_0
+    21300002: Peer_1
+    21300004: Peer_2
+    21300006: Peer_3
+    21300008: Peer_4
+    21300010: Peer_5
+    21300012: Peer_6
+    21300014: Peer_7
+    21300016: Peer_8
+    21300018: Peer_9
+    21300020: Peer_10
+    21300022: Peer_11
+    21300024: Peer_12
+    21300026: Peer_13
+    21300028: Peer_14
+    21300030: Peer_15
+    21300032: Peer_16
+    21300034: Peer_17
+    21300036: Peer_18
+    21300038: Peer_19
+    21300040: Peer_20
+    21300042: Peer_21
+    21300044: Peer_22
+    21300046: Peer_23
+    21300048: Peer_24
+    21300050: Peer_25
+    21300052: Peer_26
+    21300054: Peer_27
+    21300056: Peer_28
+    21300058: Peer_29
+    21300060: Peer_30
+    21300062: Peer_31
+    21300064: Peer_32
+    21300066: Peer_33
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Peer_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1811
+        width: 129
+        height: 237
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1809
+        width: 121
+        height: 239
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1808
+        width: 124
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_3
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1808
+        width: 125
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_4
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1807
+        width: 123
+        height: 239
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1561
+        width: 125
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1560
+        width: 126
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_7
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1559
+        width: 126
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_8
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1559
+        width: 129
+        height: 241
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_9
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1560
+        width: 131
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1309
+        width: 128
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1314
+        width: 127
+        height: 236
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_12
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1315
+        width: 125
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_13
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1312
+        width: 124
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_14
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1313
+        width: 121
+        height: 239
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1067
+        width: 124
+        height: 239
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1072
+        width: 119
+        height: 239
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_17
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1066
+        width: 121
+        height: 243
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_18
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1072
+        width: 121
+        height: 235
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_19
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1068
+        width: 122
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_20
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1067
+        width: 122
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 827
+        width: 124
+        height: 235
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 825
+        width: 123
+        height: 239
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_23
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 824
+        width: 124
+        height: 237
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_24
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 823
+        width: 126
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_25
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 822
+        width: 125
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 571
+        width: 128
+        height: 239
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_27
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 570
+        width: 128
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_28
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 574
+        width: 125
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_29
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 576
+        width: 125
+        height: 237
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_30
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 577
+        width: 122
+        height: 239
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_31
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 327
+        width: 121
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_32
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 332
+        width: 119
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peer_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 328
+        width: 117
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
