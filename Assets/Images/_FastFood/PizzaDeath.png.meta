@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: 3ed40e7b260b04a59a02d970761f07e7
+timeCreated: 1448771745
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PizzaDeath_0
+    21300002: PizzaDeath_1
+    21300004: PizzaDeath_2
+    21300006: PizzaDeath_3
+    21300008: PizzaDeath_4
+    21300010: PizzaDeath_5
+    21300012: PizzaDeath_6
+    21300014: PizzaDeath_7
+    21300016: PizzaDeath_8
+    21300018: PizzaDeath_9
+    21300020: PizzaDeath_10
+    21300022: PizzaDeath_11
+    21300024: PizzaDeath_12
+    21300026: PizzaDeath_13
+    21300028: PizzaDeath_14
+    21300030: PizzaDeath_15
+    21300032: PizzaDeath_16
+    21300034: PizzaDeath_17
+    21300036: PizzaDeath_18
+    21300038: PizzaDeath_19
+    21300040: PizzaDeath_20
+    21300042: PizzaDeath_21
+    21300044: PizzaDeath_22
+    21300046: PizzaDeath_23
+    21300048: PizzaDeath_24
+    21300050: PizzaDeath_25
+    21300052: PizzaDeath_26
+    21300054: PizzaDeath_27
+    21300056: PizzaDeath_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PizzaDeath_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 888
+        width: 150
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 887
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 884
+        width: 153
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_3
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 884
+        width: 152
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_4
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 884
+        width: 156
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_5
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 883
+        width: 155
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 736
+        width: 157
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 736
+        width: 157
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_8
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 736
+        width: 160
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_9
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 735
+        width: 160
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_10
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 736
+        width: 160
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 588
+        width: 159
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 591
+        width: 160
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_13
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 592
+        width: 160
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_14
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 592
+        width: 158
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 592
+        width: 157
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 448
+        width: 156
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_17
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 451
+        width: 157
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_18
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 452
+        width: 156
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_19
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 452
+        width: 156
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_20
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 452
+        width: 157
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_21
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 451
+        width: 157
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 311
+        width: 158
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_23
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 309
+        width: 158
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_24
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 308
+        width: 160
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_25
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 307
+        width: 161
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_26
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 304
+        width: 162
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 161
+        width: 162
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PizzaDeath_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 164
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

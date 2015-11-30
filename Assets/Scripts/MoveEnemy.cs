@@ -1,6 +1,12 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+/**
+* ...
+* @author Joel Limes
+* ...
+**/
+
 public class MoveEnemy : MonoBehaviour 
 {
 	public GameObject[] waypoints;

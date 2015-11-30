@@ -2,6 +2,12 @@
 using System.Collections;
 using UnityEngine.UI;
 
+/**
+* ...
+* @author Joel Limes
+* ...
+**/
+
 public class GameManagerBehavior : MonoBehaviour 
 {	
 	public Text goldLabel;

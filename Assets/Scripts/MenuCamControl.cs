@@ -1,7 +1,14 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class MenuCamControl : MonoBehaviour {
+/**
+* ...
+* @author Joel Limes
+* ...
+**/
+
+public class MenuCamControl : MonoBehaviour 
+{
 
 	public Transform currentMount; 
 	public float SpeedFactor = 0.1f; 

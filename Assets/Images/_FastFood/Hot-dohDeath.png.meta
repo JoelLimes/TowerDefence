@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: e836a71d1f13943b899ff7b19bf35e0c
+timeCreated: 1448771338
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hot-dohDeath_0
+    21300002: Hot-dohDeath_1
+    21300004: Hot-dohDeath_2
+    21300006: Hot-dohDeath_3
+    21300008: Hot-dohDeath_4
+    21300010: Hot-dohDeath_5
+    21300012: Hot-dohDeath_6
+    21300014: Hot-dohDeath_7
+    21300016: Hot-dohDeath_8
+    21300018: Hot-dohDeath_9
+    21300020: Hot-dohDeath_10
+    21300022: Hot-dohDeath_11
+    21300024: Hot-dohDeath_12
+    21300026: Hot-dohDeath_13
+    21300028: Hot-dohDeath_14
+    21300030: Hot-dohDeath_15
+    21300032: Hot-dohDeath_16
+    21300034: Hot-dohDeath_17
+    21300036: Hot-dohDeath_18
+    21300038: Hot-dohDeath_19
+    21300040: Hot-dohDeath_20
+    21300042: Hot-dohDeath_21
+    21300044: Hot-dohDeath_22
+    21300046: Hot-dohDeath_23
+    21300048: Hot-dohDeath_24
+    21300050: Hot-dohDeath_25
+    21300052: Hot-dohDeath_26
+    21300054: Hot-dohDeath_27
+    21300056: Hot-dohDeath_28
+    21300058: Hot-dohDeath_29
+    21300060: Hot-dohDeath_30
+    21300062: Hot-dohDeath_31
+    21300064: Hot-dohDeath_32
+    21300066: Hot-dohDeath_33
+    21300068: Hot-dohDeath_34
+    21300070: Hot-dohDeath_35
+    21300072: Hot-dohDeath_36
+    21300074: Hot-dohDeath_37
+    21300076: Hot-dohDeath_38
+    21300078: Hot-dohDeath_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Hot-dohDeath_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 912
+        width: 137
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 912
+        width: 136
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 911
+        width: 138
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_3
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 908
+        width: 139
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_4
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 908
+        width: 139
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_5
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 907
+        width: 139
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 753
+        width: 139
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 752
+        width: 141
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 752
+        width: 143
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_9
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 752
+        width: 142
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_10
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 752
+        width: 142
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_11
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 753
+        width: 146
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 624
+        width: 140
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 626
+        width: 140
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_14
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 627
+        width: 139
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_15
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 627
+        width: 139
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_16
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 628
+        width: 138
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_17
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 630
+        width: 137
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 491
+        width: 137
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_19
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 492
+        width: 136
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 492
+        width: 136
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_21
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 490
+        width: 134
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_22
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 488
+        width: 133
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_23
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 487
+        width: 134
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 348
+        width: 134
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 348
+        width: 133
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_26
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 416
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_27
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 348
+        width: 132
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_28
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 346
+        width: 133
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_29
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 345
+        width: 134
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_30
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 343
+        width: 138
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_31
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 202
+        width: 132
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_32
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 203
+        width: 133
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_33
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 71
+        width: 134
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_34
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 204
+        width: 134
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_35
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 189
+        width: 133
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_36
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 189
+        width: 134
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_37
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 190
+        width: 134
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 70
+        width: 135
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hot-dohDeath_39
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 70
+        width: 133
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

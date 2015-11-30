@@ -2,16 +2,24 @@
 using UnityEngine.UI;
 using System.Collections;
 
+/**
+* ...
+* @author Joel Limes
+* ...
+**/
+
 public class PlayerHealth : MonoBehaviour 
 {
 	
 	public float maxHealth = 100f;
 	public float currentHealth = 0f;
 	public GameObject healthBar;
+	Animator _anim;
 	
 	void Start () 
 	{
 		currentHealth = maxHealth;
+		_anim = GetComponent<Animator> ();
 	}
 
 	void Update () 
@@ -40,7 +48,10 @@ public class PlayerHealth : MonoBehaviour
 
 		if(currentHealth <= 0)
 		{
-			Destroy(this.gameObject);
+			_anim.SetBool("Die", true);
+			GetComponent<CircleCollider2D>().enabled = false;
+			GetComponent<MoveEnemy>().enabled = false;
+			GetComponent<PlayerHealth>().enabled = false;
 		}
 	}
 }

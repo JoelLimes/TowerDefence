@@ -1,8 +1,15 @@
 ﻿//using UnityEngine;
 //using System.Collections;
+//using UnityEngine.UI;
+///**
+//* ...
+//* @author Joel Limes
+//* ...
+//**/
 //
 //public class PlayerWallet : MonoBehaviour 
 //{
+//	[SerializeField]
 //	private GameManagerBehavior gameManager;
 //
 //	// Use this for initialization

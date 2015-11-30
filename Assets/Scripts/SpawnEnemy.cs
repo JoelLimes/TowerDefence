@@ -2,6 +2,12 @@
 using System.Collections;
 using System.Collections.Generic;
 
+/**
+* ...
+* @author Joel Limes
+* ...
+**/
+
 public class SpawnEnemy : MonoBehaviour 
 {
 	public GameObject[] waypoints;

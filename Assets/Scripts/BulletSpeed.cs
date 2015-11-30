@@ -1,9 +1,14 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+/**
+* ...
+* @author Joel Limes
+* ...
+**/
+
 public class BulletSpeed : MonoBehaviour 
 {
-//	[SerializeField]
 	public float bulletSpeed = 20f;
 
 	// Use this for initialization

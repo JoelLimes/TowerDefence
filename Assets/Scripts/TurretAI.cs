@@ -1,6 +1,12 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+/**
+* ...
+* @author Joel Limes
+* ...
+**/
+
 public class TurretAI : MonoBehaviour 
 {
 	public float radius = 3;

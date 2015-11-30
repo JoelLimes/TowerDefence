@@ -10,7 +10,7 @@ public class BuildTurret : MonoBehaviour {
 	
 	Vector3 MousePos() {
 		Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-		Vector2 roundMousePos = new Vector2(Mathf.RoundToInt(mousePos.x), Mathf.RoundToInt(mousePos.y));
+		Vector2 roundMousePos = new Vector2(mousePos.x, mousePos.y);
 		return roundMousePos;
 	}
 	
@@ -59,3 +59,9 @@ public class BuildTurret : MonoBehaviour {
 		}
 	}
 }
+
+/**
+* ...
+* @author Joel Limes
+* ...
+**/

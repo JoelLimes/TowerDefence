@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: 35046f85abfd74c458f04fddaa347635
+timeCreated: 1448771503
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: KippetjeDeath_0
+    21300002: KippetjeDeath_1
+    21300004: KippetjeDeath_2
+    21300006: KippetjeDeath_3
+    21300008: KippetjeDeath_4
+    21300010: KippetjeDeath_5
+    21300012: KippetjeDeath_6
+    21300014: KippetjeDeath_7
+    21300016: KippetjeDeath_8
+    21300018: KippetjeDeath_9
+    21300020: KippetjeDeath_10
+    21300022: KippetjeDeath_11
+    21300024: KippetjeDeath_12
+    21300026: KippetjeDeath_13
+    21300028: KippetjeDeath_14
+    21300030: KippetjeDeath_15
+    21300032: KippetjeDeath_16
+    21300034: KippetjeDeath_17
+    21300036: KippetjeDeath_18
+    21300038: KippetjeDeath_19
+    21300040: KippetjeDeath_20
+    21300042: KippetjeDeath_21
+    21300044: KippetjeDeath_22
+    21300046: KippetjeDeath_23
+    21300048: KippetjeDeath_24
+    21300050: KippetjeDeath_25
+    21300052: KippetjeDeath_26
+    21300054: KippetjeDeath_27
+    21300056: KippetjeDeath_28
+    21300058: KippetjeDeath_29
+    21300060: KippetjeDeath_30
+    21300062: KippetjeDeath_31
+    21300064: KippetjeDeath_32
+    21300066: KippetjeDeath_33
+    21300068: KippetjeDeath_34
+    21300070: KippetjeDeath_35
+    21300072: KippetjeDeath_36
+    21300074: KippetjeDeath_37
+    21300076: KippetjeDeath_38
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: KippetjeDeath_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 118
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 879
+        width: 120
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 878
+        width: 122
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 876
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_4
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 875
+        width: 125
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 872
+        width: 126
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_6
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 872
+        width: 126
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 708
+        width: 127
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 708
+        width: 128
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_9
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 706
+        width: 129
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_10
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 707
+        width: 129
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_11
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 708
+        width: 128
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_12
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 708
+        width: 126
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 546
+        width: 125
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 547
+        width: 125
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 547
+        width: 124
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_16
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 548
+        width: 123
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_17
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 550
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_18
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 552
+        width: 120
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_19
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 552
+        width: 118
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 120
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_21
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 391
+        width: 122
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_22
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 390
+        width: 123
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_23
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 388
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_24
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 388
+        width: 125
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_25
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 387
+        width: 126
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_26
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 384
+        width: 129
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 220
+        width: 128
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_28
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 220
+        width: 132
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_29
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 219
+        width: 132
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_30
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 220
+        width: 129
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_31
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 222
+        width: 128
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_32
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 223
+        width: 129
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 59
+        width: 126
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_34
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 60
+        width: 125
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_35
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 62
+        width: 124
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_36
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 63
+        width: 122
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_37
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 64
+        width: 121
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KippetjeDeath_38
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 64
+        width: 119
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
