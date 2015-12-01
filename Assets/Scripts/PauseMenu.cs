@@ -15,6 +15,7 @@ public class PauseMenu : MonoBehaviour
 	[SerializeField]
 	private GameObject pauseMenuCanvas;
 
+
 	// Update is called once per frame
 	void Update () 
 	{
